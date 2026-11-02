@@ -3,7 +3,7 @@
 const en = {
   brand: "SubtitleKit",
   tagline: "Every subtitle fix runs in your browser.",
-  metaDesc: "Free subtitle tools: SRT ↔ VTT conversion, timeline shifting and rescaling, bilingual merging, timing repair and text cleanup. Everything runs in your browser — your subtitle files never leave your device.",
+  metaDesc: "Free subtitle tools: SRT ↔ VTT conversion, timeline shift and rescale, bilingual merging, timing repair, text cleanup. Files never leave your device.",
 
   nav: {
     tools: "All tools",
