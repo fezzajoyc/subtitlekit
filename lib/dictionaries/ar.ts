@@ -84,6 +84,7 @@ const ar: Dictionary = {
   },
 
   common: {
+    openTool: "افتح الأداة",
     copy: "نسخ",
     copied: "تم النسخ",
     download: "تنزيل",

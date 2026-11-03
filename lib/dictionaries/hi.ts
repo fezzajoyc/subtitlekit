@@ -81,6 +81,7 @@ const hi = {
   },
 
   common: {
+    openTool: "टूल खोलें",
     copy: "कॉपी करें",
     copied: "कॉपी हो गया",
     download: "डाउनलोड करें",
